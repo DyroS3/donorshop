@@ -5,7 +5,6 @@
 
 [-] mysql-async        - https://github.com/brouznouf/fivem-mysql-async
 
-- = 必要安装插件.
 
 # 安装指南
 * 拖放到资源目录中。
